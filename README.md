@@ -11,3 +11,5 @@ The Meeting ID and Password is hardcoded, so please update that before start wor
 
 I have not added any extra UI or activity indicator to keep the sample simple.
 
+Solved : ZoomiOSSDK integration Issue : Meeting UI is not presenting over, the camare is working and the host can see the participant
+Just following the documents does make the Meeting UI present, as they are not mentioning about setting rootview controller in the SDK tutorial document.
