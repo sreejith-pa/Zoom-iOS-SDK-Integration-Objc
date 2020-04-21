@@ -7,6 +7,8 @@ https://marketplace.zoom.us/docs/sdk/native-sdks/iOS/getting-started , I have ad
 The Lib files are downloaded from ZoomSDK official repo.
 https://github.com/zoom/zoom-sdk-ios/tree/master
 
+# Only runs in devices, this repo has the device related library integrated
+
 The Meeting ID and Password is hardcoded, so please update that before start working. Before tapping Join Zoom button to join into meeting, please make sure the auth is done by check the console with "onMobileRTCAuth Success" message
 
 I have not added any extra UI or activity indicator to keep the sample simple.
